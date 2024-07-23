@@ -1,4 +1,4 @@
-## SRGFormer
+# Structurally Refined Graph Transformer for Multimodal Recommendation
 
 ### Overview
 
