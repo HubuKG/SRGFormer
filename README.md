@@ -2,7 +2,7 @@
 
 ### Overview
 
-<img src="img/framework.jpg" width="900">
+<img src="img/framework.jpg" width="600">
 
 ### Environment
 
