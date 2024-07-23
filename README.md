@@ -2,7 +2,7 @@
 
 ### Overview
 
-![Overview of LGMRec](img/framework.jpg)
+<img src="img/framework.jpg" width="900">
 
 ### Environment
 
